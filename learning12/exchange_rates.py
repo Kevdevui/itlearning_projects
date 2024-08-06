@@ -1,0 +1,7 @@
+# Exchange rates
+USD_TO_EUR = 0.85
+USD_TO_GBP = 0.72
+USD_TO_JPY = 110.45
+USD_TO_CAD = 1.38
+USD_TO_AUD = 1.53
+USD_TO_INR = 83.94
